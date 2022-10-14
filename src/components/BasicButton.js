@@ -2,10 +2,10 @@ import React from "react";
 export default function BasicButton() {
   return (
     <div>
-      hahahahahahah
-      <button>Clicjk me</button>
-      <button>Clicjk me</button>
-      <button>Clicjk me</button>
+      Import Alias
+      <button>Click me !!</button>
+      <button>Click me !!</button>
+      <button>Click me !!</button>
     </div>
   );
 }
